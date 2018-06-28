@@ -3,4 +3,13 @@
   overflow: auto;
   height: 350px; }
 
+.font-indie {
+  font-family: 'Amatic SC', cursive; }
+
+.font-noto {
+  font-family: 'Noto Sans', sans-serif; }
+
+.font-open {
+  font-family: 'Open Sans Condensed', sans-serif; }
+
 /*# sourceMappingURL=style.css.map */
